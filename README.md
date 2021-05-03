@@ -4,7 +4,7 @@ This python code is designed to check for unexpected deviations in ART reporting
 
 ## Pre-requisites
 
-Although python3 is recommended, code should work with python2 or python3. Output in python2 will not be properly formatted. 
+Although python3 is recommended, the code should work with python2 or python3. Output in python2 will not be properly formatted. 
 
 You will also need to have installed the packages `numpy`, `scipy`, and `csv`. 
 
