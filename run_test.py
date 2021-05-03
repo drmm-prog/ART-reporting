@@ -1,4 +1,4 @@
-import Data_Checks as DC
+from ART_checking import Data_Checks as DC
 import sys
 
 if not (len(sys.argv) == 3):

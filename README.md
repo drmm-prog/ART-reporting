@@ -43,7 +43,7 @@ Suspicious data points in Krebsville at  ['2018, Q2']
 
 The `run_test.py` program shows how to use the code in other modules. First you need to 
 ```
-import Data_Checks
+from ART_checking import Data_Checks
 ```
 
 and then call the functions:
